@@ -2,7 +2,7 @@
 
 #### Homework
 
-There are two exercises students are expected to complete:
+There are two exercises. Students are expected to complete both of them:
 
 **Converting JSON**
 - An html file [named json-dinosaur.html] contains the instructions for this exercise.
